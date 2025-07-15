@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="geode-binding" />
+        <module name="aerospike-binding" />
+        <module name="rados-binding" />
+        <module name="azurecosmos-binding" />
+        <module name="memcached-binding" />
+        <module name="couchbase-binding" />
+        <module name="arangodb-binding" />
+        <module name="googlebigtable2-binding" />
+        <module name="hbase1-binding" />
+        <module name="dynamodb-binding" />
+        <module name="azuretablestorage-binding" />
+        <module name="nosqldb-binding" />
+        <module name="couchbase2-binding" />
+        <module name="hbase2-binding" />
+        <module name="infinispan-binding" />
+        <module name="seaweedfs-binding" />
+        <module name="voltdb-binding" />
+        <module name="accumulo1.9-binding" />
+        <module name="elasticsearch-binding" />
+        <module name="foundationdb-binding" />
+        <module name="s3-binding" />
+        <module name="scylla-binding" />
+        <module name="mongodb-binding" />
+        <module name="riak-binding" />
+        <module name="asynchbase-binding" />
+        <module name="crail-binding" />
+        <module name="orientdb-binding" />
+        <module name="maprdb-binding" />
+        <module name="tarantool-binding" />
+        <module name="googledatastore-binding" />
+        <module name="jdbc-binding" />
+        <module name="solr7-binding" />
+        <module name="elasticsearch5-binding" />
+        <module name="googlebigtable-binding" />
+        <module name="kudu-binding" />
+        <module name="rocksdb-binding" />
+        <module name="redis-binding" />
+        <module name="core" />
+        <module name="tablestore-binding" />
+        <module name="maprjsondb-binding" />
+        <module name="cloudspanner-binding" />
+        <module name="griddb-binding" />
+        <module name="zookeeper-binding" />
+        <module name="ignite-binding" />
+        <module name="datastore-specific-descriptor" />
+        <module name="postgrenosql-binding" />
+        <module name="rest-binding" />
+        <module name="cassandra-binding" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
